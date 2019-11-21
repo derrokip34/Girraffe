@@ -7,3 +7,18 @@
  p.author {
    font-size:12px;
 }
+#line {
+  color: blue;
+}
+body {
+  font-style: albetica;
+}
+.important {
+  color: blue;
+}
+.unimportant {
+  color: brown;
+}
+.Important{
+  font-style: italic;
+}
